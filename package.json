@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "AldoSec Cyphie",
+  "author": "AldoSec Cyphie"
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
@@ -16,3 +16,4 @@
     "ora": "^8.2.0"
   }
 }
+
