@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "bin": {
-    "track-codepos": "./index.js"
+    "scanning-media-whatsapp": "./index.js"
   },
   "scripts": {
     "start": "node index.js"
@@ -25,3 +25,4 @@
     "ora": "^8.2.0"
   }
 }
+
