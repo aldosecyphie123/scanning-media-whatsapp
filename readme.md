@@ -1,6 +1,6 @@
 # 🏷️ Scanning Media WhatsApp
 
-![Scanning Media WhatsApp Banner](https://img.shields.io/badge/Scanning-Media-Whatsapp-blueviolet?style=for-the-badge)
+![Scanning Media WhatsApp](https://img.shields.io/badge/ScanningMedia-WhatsApp-blueviolet?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
@@ -25,3 +25,4 @@ npm install --no-bin-links
 
 
 node index.js
+
