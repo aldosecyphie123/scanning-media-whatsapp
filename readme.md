@@ -23,6 +23,6 @@ cd scanning-media-whatsapp
 
 npm install --no-bin-links
 
-
 node index.js
+
 
