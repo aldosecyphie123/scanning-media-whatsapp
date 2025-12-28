@@ -1,12 +1,21 @@
 {
   "name": "scanning-media-whatsapp",
   "version": "1.0.0",
-  "description": "Mendapatkan video dari status whatsapp dan lain lain",
+  "description": "Scanner whatsapp media local",
   "main": "index.js",
   "type": "commonjs",
+  "bin": {
+    "track-codepos": "./index.js"
+  },
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": [
+    "scanningmediawa",
+    "cli",
+    "termux",
+    "indonesia"
+  ],
   "author": "AldoSec Cyphie",
   "license": "MIT",
   "dependencies": {
