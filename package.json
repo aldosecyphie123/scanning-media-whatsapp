@@ -16,7 +16,7 @@
     "termux",
     "indonesia"
   ],
-  "author": "AldoSec Cyphie",
+  "author": "AldoSeCyphie",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
@@ -25,4 +25,5 @@
     "ora": "^8.2.0"
   }
 }
+
 
