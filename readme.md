@@ -17,7 +17,7 @@ Pilih jenis media seperti **foto, video, status, atau sticker**, lalu dapatkan *
 
 ### 1️⃣ Clone Repository
 ```bash
- pkg install nodejs-lts
+pkg install nodejs-lts
 
 git clone https://github.com/aldosecyphie123/scanning-media-whatsapp.git
 
@@ -26,6 +26,7 @@ cd scanning-media-whatsapp
 npm install --no-bin-links
 
 node index.js
+
 
 
 
